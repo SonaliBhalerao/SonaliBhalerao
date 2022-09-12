@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonali Bhalerao</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India. I love to solve DSA problems and accept challenges. I would like to work, where I'll improve my skills and gain more knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalibhalerao&label=Profile%20views&color=0e75b6&style=flat" alt="sonalibhalerao" /> </p>
 
