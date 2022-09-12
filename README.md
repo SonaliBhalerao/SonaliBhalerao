@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📝 I regularly write articles on [https://medium.com/@sonalibhalerao120](https://medium.com/@sonalibhalerao120)
 
-- 💬 Ask me about **HTML, JS, CSS**
+- 💬 Ask me about **DSA, HTML, JS, CSS, MERN Stack**
 
 - 📫 How to reach me **sonalibhalerao120@gmail.com**
 
