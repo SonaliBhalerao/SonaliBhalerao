@@ -1,4 +1,4 @@
-<p><img height="250px" src="https://www.moveoapps.com/blog/wp-content/uploads/2021/12/mern-stack.png" alt="MEARN Stack Web Developer" /></p>
+<p align="center"><img align="center" height="250px" src="https://www.moveoapps.com/blog/wp-content/uploads/2021/12/mern-stack.png" alt="MEARN Stack Web Developer" /></p>
 <h1 align="center">Hi 👋, I'm Sonali Bhalerao</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India. I love to solve DSA problems and accept challenges. I would like to work, where I'll improve my skills and gain more knowledge.</h3>
 
