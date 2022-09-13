@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sonalibhalerao120@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/18WJRCr3H6I5M2FHjGgQikQt7IiZLaR_w/view?usp=sharing](https://drive.google.com/file/d/18WJRCr3H6I5M2FHjGgQikQt7IiZLaR_w/view)](https://docs.google.com/document/d/19SgpIiffCIaoFInE5qx3jWKr0xGwEoZ1/edit?usp=sharing&ouid=111837768718689010617&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18WJRCr3H6I5M2FHjGgQikQt7IiZLaR_w/view](https://docs.google.com/document/d/19SgpIiffCIaoFInE5qx3jWKr0xGwEoZ1/edit?usp=sharing&ouid=111837768718689010617&rtpof=true&sd=true)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
